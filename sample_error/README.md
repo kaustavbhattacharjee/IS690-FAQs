@@ -1,4 +1,4 @@
-#Sample Error
+# Sample Error
 
 This is a dummy error, made just to give you an example of how to create an error and submit all the details regarding the error.
 Use the following template for uploading details about an error:
